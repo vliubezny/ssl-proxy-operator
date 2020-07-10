@@ -1,0 +1,7 @@
+apiVersion: ssl-proxy.vliubezny/v1beta1
+kind: SslProxy
+metadata:
+  name: example-sslproxy
+spec:
+  # Add fields here
+  size: 3
